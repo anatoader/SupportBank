@@ -1,14 +1,16 @@
+from transaction import Transaction
+
 class Account:
     def __init__(self, name: str):
         self.name = name
         self.balance = 0
         self.transactions = []
 
-    def add_transaction(self, transaction: dict[str, str | float]) -> None:
-        if transaction["from"] == self.name:
-            self.balance += transaction["amount"]
-        elif transaction["to"] == self.name:
-            self.balance -= transaction["amount"]
+    def add_transaction(self, transaction: Transaction) -> None:
+        if transaction.from_name == self.name:
+            self.balance += transaction.amount
+        elif transaction.to_name == self.name:
+            self.balance -= transaction.amount
         else:
             raise Exception(f'Transaction source {transaction["from"]} or destination {transaction["to"]} do not match the account.')
 

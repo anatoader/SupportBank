@@ -1,5 +1,5 @@
-import pandas as pd
 from account import Account
+from transaction import Transaction
 
 class Bank:
     def __init__(self) -> None:
@@ -10,22 +10,12 @@ class Bank:
             self.accounts[name] = Account(name)
         return self.accounts[name]
 
-    def parse_transactions_from_csv(self, filename: str) -> None:
-        transactions_data = pd.read_csv(filename)
-
-        for _, row in transactions_data.iterrows():
-            transaction = {
-                "date": row["Date"],
-                "amount": row["Amount"],
-                "narrative": row["Narrative"],
-                "from": row["From"],
-                "to": row["To"]
-            }
-
-            from_account = self.get_or_create_account(row["From"])
+    def process_transactions(self, transactions: list[Transaction]) -> None:
+        for transaction in transactions:
+            from_account = self.get_or_create_account(transaction.from_name)
             from_account.add_transaction(transaction)
 
-            to_account = self.get_or_create_account(row["To"])
+            to_account = self.get_or_create_account(transaction.to_name)
             to_account.add_transaction(transaction)
 
     def list_all_accounts(self) -> None:
@@ -41,8 +31,4 @@ class Bank:
             print(account)
             print("Transactions:")
             for transaction in account.transactions:
-                print(f'Date: {transaction["date"]},'
-                      f'From: {transaction["from"]},'
-                      f'To: {transaction["to"]},'
-                      f'Narrative: {transaction["narrative"]},'
-                      f'Amount: {transaction["amount"]}')
+                print(transaction)

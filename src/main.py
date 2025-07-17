@@ -1,9 +1,12 @@
 import re
 from bank import Bank
+from file_reader_utilities import read_transactions_from_file
 
 def main():
     bank = Bank()
-    bank.parse_transactions_from_csv("data/Transactions2014.csv")
+
+    transactions = read_transactions_from_file("data/Transactions2014.csv")
+    bank.process_transactions(transactions)
 
     while True:
         print('-------------------')
