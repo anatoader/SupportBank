@@ -5,8 +5,14 @@ from file_reader_utilities import read_transactions_from_file
 def main():
     bank = Bank()
 
-    transactions = read_transactions_from_file("data/Transactions2014.csv")
-    bank.process_transactions(transactions)
+    filepaths = [
+        "data/Transactions2014.csv",
+        "data/DodgyTransactions2015.csv"
+    ]
+
+    for filepath in filepaths:
+        transactions = read_transactions_from_file(filepath)
+        bank.process_transactions(transactions)
 
     while True:
         print('-------------------')
