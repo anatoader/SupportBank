@@ -1,0 +1,2 @@
+2025-07-17 18:18:36,013 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-17 18:18:36,015 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
