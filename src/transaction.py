@@ -1,8 +1,9 @@
 from datetime import datetime
 import re
 
+
 class Transaction:
-    def __init__(self, date: datetime, amount: float, narrative: str, from_name: str, to_name: str) -> None:
+    def __init__(self, date: str, amount: float, narrative: str, from_name: str, to_name: str) -> None:
         self.date = date
         self.amount = amount
         self.narrative = narrative

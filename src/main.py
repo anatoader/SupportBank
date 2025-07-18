@@ -2,12 +2,14 @@ import re
 from bank import Bank
 from file_reader_utilities import read_transactions_from_file
 
+
 def main():
     bank = Bank()
 
     filepaths = [
         "data/Transactions2014.csv",
-        "data/DodgyTransactions2015.csv"
+        "data/DodgyTransactions2015.csv",
+        "data/Transactions2012.xml"
     ]
 
     for filepath in filepaths:
@@ -36,6 +38,7 @@ def main():
             break
         else:
             print("Invalid input. Please try again.")
+
 
 if __name__ == "__main__":
     main()
