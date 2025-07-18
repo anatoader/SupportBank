@@ -16,10 +16,15 @@ class Transaction:
     @date.setter
     def date(self, date: str) -> None:
         if not date: raise ValueError(f"Date cannot be empty")
-        try:
-            self._date = datetime.strptime(date, "%d/%m/%Y")
-        except ValueError:
-            raise ValueError(f"Invalid date: {date}")
+        valid_formats = ["%d/%m/%Y", "%Y-%m-%dT%H:%M:%S"]
+        for date_format in valid_formats:
+            try:
+                self._date = datetime.strptime(date, date_format)
+                return
+            except ValueError:
+                continue
+
+        raise ValueError(f"Invalid date: {date}")
 
     @property
     def amount(self) -> float:

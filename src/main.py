@@ -19,6 +19,7 @@ def main():
         print("Available commands:")
         print("  - [List All] Outputs the names of all available accounts.")
         print("  - [List[<Account_name>]] Lists all transactions for the account associated with <Account_name>.")
+        print("  - [Import file <filename>] Reads transactions from the file from disk.")
         print("  - [Exit] Gracefully exits the program.")
         user_input = input("Please enter a command: ").strip()
 
@@ -27,6 +28,9 @@ def main():
         elif re.match(r"^List\[[a-zA-Z ]+]$", user_input):
             account_name = user_input[5:-1]
             bank.list_account_transactions(account_name)
+        elif re.match(r"^Import file .+$", user_input):
+            transactions = read_transactions_from_file(user_input[12:])
+            bank.process_transactions(transactions)
         elif user_input == "Exit":
             print("Exiting...")
             break
