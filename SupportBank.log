@@ -112,3 +112,49 @@
 2025-07-18 11:03:27,724 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
 2025-07-18 11:07:07,620 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
 2025-07-18 11:07:07,622 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:31:37,955 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:31:37,955 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:31:37,957 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:31:37,957 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:33:27,115 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:33:27,117 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:34:40,211 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:34:40,212 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:34:47,622 - SupportBank - ERROR - File transactions.xml does not exist
+2025-07-18 12:35:17,403 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:35:17,404 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:35:24,527 - SupportBank - ERROR - File transactions.xml does not exist
+2025-07-18 12:36:17,201 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:36:17,203 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:39:06,025 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:39:06,027 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:39:36,363 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:39:36,365 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:40:00,478 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:40:00,482 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:40:49,742 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:40:49,744 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:43:31,171 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:43:31,173 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:43:36,057 - SupportBank - ERROR - File extension .xml not supported
+2025-07-18 12:44:01,173 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:44:01,175 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:44:05,809 - SupportBank - ERROR - File extension .xml not supported
+2025-07-18 12:44:37,071 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:44:37,073 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:45:12,715 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:45:12,718 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:51:09,254 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:51:09,256 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:51:26,652 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:51:26,654 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 12:52:59,985 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 12:52:59,987 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 13:21:18,812 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 13:21:18,815 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 13:22:13,324 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 13:22:13,325 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 13:29:35,081 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 13:29:35,082 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday
+2025-07-18 13:30:02,613 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('01/03/2015', 'Ben B', 'Sam N', 'Lunch', 'One Cheeseburger'): Invalid amount: One Cheeseburger
+2025-07-18 13:30:02,615 - SupportBank - ERROR - [ERROR READING TRANSACTION] ('Last Thursday', 'Sarah T', 'Dan W', 'Beers', '5.42'): Invalid date: Last Thursday

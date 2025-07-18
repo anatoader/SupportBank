@@ -1,5 +1,7 @@
 from datetime import datetime
 import re
+from bs4 import BeautifulSoup, Tag
+import pandas as pd
 
 
 class Transaction:
@@ -61,6 +63,34 @@ class Transaction:
         if not re.match(r"^[a-zA-Z ]+$", name):
             raise ValueError(f"Invalid name: {name}")
         return name
+
+    def to_xml(self, soup: BeautifulSoup) -> Tag:
+        transaction_tag = soup.new_tag('SupportTransaction', Date=self.date.isoformat())
+
+        description_tag = soup.new_tag('Description', string=self.narrative)
+        transaction_tag.append(description_tag)
+
+        value_tag = soup.new_tag('Value', string=str(self.amount))
+        transaction_tag.append(value_tag)
+
+        parties_tag = soup.new_tag('Parties')
+        parties_tag.append(soup.new_tag('From', string=self.from_name))
+        parties_tag.append(soup.new_tag('To', string=self.to_name))
+        transaction_tag.append(parties_tag)
+
+        return transaction_tag
+
+    def to_json(self) -> dict[str, str | float]:
+        return   {
+            "Date": self.date.isoformat(),
+            "FromAccount": self.from_name,
+            "ToAccount": self.to_name,
+            "Narrative": self.narrative,
+            "Amount": self.amount
+          }
+
+    def to_series(self) -> pd.Series:
+        return pd.Series(self.to_json())
 
     def __str__(self) -> str:
         return (f'Date: {self.date}, '
