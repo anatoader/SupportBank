@@ -1,0 +1,11075 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransactionList>
+ <SupportTransaction Date="2014-01-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   7.8
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-07T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   1.65
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.75
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.49
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-06T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-03T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   10.51
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-19T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.04
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-01T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.67
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-06T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.37
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-16T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.75
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.31
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-18T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   7.22
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.13
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-12T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   3.11
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   3.71
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-24T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.61
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-30T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   9.26
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.37
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-11T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   0.73
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.61
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.04
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.26
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-22T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.66
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-07T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   9.93
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-16T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   0.69
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-07T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   7.37
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-26T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   4.23
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-04T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   9.09
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-11T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   11.57
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-21T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.54
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-26T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.44
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-27T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.91
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-01T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   9.22
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   6.45
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-18T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   9.1
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-12T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-30T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   4.79
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-01T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   10.84
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.51
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-25T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.57
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-29T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   0.52
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-05T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   7.98
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-13T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.2
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.55
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-22T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   10.01
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.83
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-27T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.47
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-30T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   8.65
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-17T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.64
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   10.25
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.66
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-16T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-15T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.99
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-04T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.88
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-12T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.89
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.28
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   7.8
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-18T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   1.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-14T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   2.1
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-17T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.66
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-20T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.28
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-29T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   5.01
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-10T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   3.55
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-05T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   5.06
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-17T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   3.61
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-09T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   11.5
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.03
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.05
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.56
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-13T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.25
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-27T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-06T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   7.44
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-02T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   4.67
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   2.24
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-01T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   10.54
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-17T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   11.48
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-24T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   6.38
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-06T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.67
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-07T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.19
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-14T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   1.79
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-18T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   9.1
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-30T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   1.89
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-10T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.49
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-02T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.24
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-25T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.19
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-04T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   1.78
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-11T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   3.75
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-06T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-14T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   8.85
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-24T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.69
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.72
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.36
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.41
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-03T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.18
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-05T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.66
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.74
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-30T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   4.53
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-01T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   2.92
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-08T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.31
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-12T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.89
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-18T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.28
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-22T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.07
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.37
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-08T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.09
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-14T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.36
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-15T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   11.63
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-19T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.88
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.2
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-14T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-15T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   6.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.75
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-17T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.66
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-06T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-08T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.96
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-23T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   3.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-01T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-09T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   11.5
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-11T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.14
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-16T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.79
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.44
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-23T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   11.85
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-02T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.9
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-18T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   11.57
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-25T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   9.42
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.02
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-24T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   7.45
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.57
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.22
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.53
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-02T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   7.43
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-04T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   5.78
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   0.68
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-18T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   4.83
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-26T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   4.23
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-06T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   9.4
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-11T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   11.57
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-28T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.83
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   1.11
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-19T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-06T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.67
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-28T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   6.1
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.72
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-31T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.88
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-07T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.14
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-16T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   11.84
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-21T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-25T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.38
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.09
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-07T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.11
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-14T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   4.15
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-22T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.8
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-27T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.86
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.55
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-14T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   8.85
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-18T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   11.22
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-07T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.89
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-17T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.64
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.42
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-16T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   5.95
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-16T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   8.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-22T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.07
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.37
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-22T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-20T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.28
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-22T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   1.95
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-24T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.38
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.46
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-06T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   7.45
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-13T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   5.89
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.81
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-24T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   8.8
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-31T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.23
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-01T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.44
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-09T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.45
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-23T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   11.47
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-08T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.76
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-14T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.59
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-18T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   7.22
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.57
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.13
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-29T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   3.43
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-06T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   7.44
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-02T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   4.67
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.76
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-12T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   4.5
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-16T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   7.17
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-27T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   0.52
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-28T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.83
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-30T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   8.6
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-13T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   1.27
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-23T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   8.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-24T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   6.38
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-09T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-12T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.12
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-24T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   2.29
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.63
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-01T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   2.61
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-25T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.38
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-08T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   11.17
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-30T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   4.79
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-28T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-31T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.86
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-09T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   9.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-14T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.57
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-05T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   2.12
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-13T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.57
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-27T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   9.11
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-30T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   8.65
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-04T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.2
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-13T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   10.89
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.42
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-03T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.18
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.74
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-13T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.93
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-15T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.99
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-04T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.88
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-08T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.31
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-16T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   8.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.28
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-30T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   0.77
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-08T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.09
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.68
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-14T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-07T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   9.39
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-30T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.77
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-01T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.87
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-11T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.72
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-30T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.77
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-10T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   10.63
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.36
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-30T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.01
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-29T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.7
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-25T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   9.42
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-03T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   6.26
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-08T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.76
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-24T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   7.45
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.57
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-12T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   3.11
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-24T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.61
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.42
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-09T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.76
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.61
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-14T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.26
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-21T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   6.86
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-28T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.44
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-01T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   10.54
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-12T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.94
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-16T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   0.69
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-27T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   0.52
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.53
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-13T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.56
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-04T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   9.09
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.96
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-12T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.37
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-13T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   1.27
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-31T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-16T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.36
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-29T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   1.9
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-31T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   3.8
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-14T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.46
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-16T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.7
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-27T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   0.93
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-29T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.17
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-02T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.24
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.51
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-18T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   9.43
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-21T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.71
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-29T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   0.52
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-07T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   7.73
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-13T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.2
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-09T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   1.74
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-10T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   1.92
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-18T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   11.22
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-05T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.25
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-12T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.62
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-17T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.6
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.13
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-11T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   2.44
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-18T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.28
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.8
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-05T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   5.62
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-25T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   7.1
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-27T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.41
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-22T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   1.95
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-09T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.31
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-15T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.86
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-23T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   3.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-17T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   3.61
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-01T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.67
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-23T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   11.47
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-03T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   6.26
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-16T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.28
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-18T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   5.47
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-04T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   6.15
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-07T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   3.0
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-25T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   5.76
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-06T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.64
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-20T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.07
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-25T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   1.86
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-15T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   10.19
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-02T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   7.43
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-04T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   5.78
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-18T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   4.83
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-09T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   11.79
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-07T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.19
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-12T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-24T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   2.29
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-25T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   7.32
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   4.67
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   6.45
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-24T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.67
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-03T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   4.85
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-12T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.33
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-16T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.7
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-13T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.3
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-17T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.6
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-07T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   7.73
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-22T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   10.01
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.52
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-30T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   4.34
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-24T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.69
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-22T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   4.73
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.08
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-22T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   6.63
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.49
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-28T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.98
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.8
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-14T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.36
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-28T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.81
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-01T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   6.87
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-04T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   6.03
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-27T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.41
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-14T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   2.1
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-27T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   10.76
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-04T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   10.85
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-09T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.31
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-19T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.61
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-30T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   5.77
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-13T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   5.89
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.36
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-31T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.23
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-20T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   1.34
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-23T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   11.85
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.56
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-04T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.81
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-21T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   9.25
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.02
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.66
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   3.71
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-29T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   3.43
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   11.28
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-10T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   3.98
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-14T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.65
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-29T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   5.87
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-07T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   3.0
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-11T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   0.73
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.17
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-28T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.44
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-29T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   5.26
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-07T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   9.93
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.33
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-12T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.94
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-21T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   0.5
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-08T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.32
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-25T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   2.39
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-29T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.85
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-05T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.96
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-15T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   8.5
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-27T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.91
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.89
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-05T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.72
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-13T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   8.46
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-01T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   2.61
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-03T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   4.85
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.09
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-29T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.17
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-06T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.17
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-28T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-19T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.45
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-06T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-09T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   9.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-16T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   1.33
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.66
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-17T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.6
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-21T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   10.4
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.83
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-22T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   6.63
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-15T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   11.63
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.2
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.68
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-31T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   6.29
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-07T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   1.65
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-10T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.93
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-18T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   1.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-22T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   5.2
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.76
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.49
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-27T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   10.76
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-01T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.87
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-08T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.96
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-15T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   8.86
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-24T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   8.8
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-11T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.14
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-14T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.3
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-06T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.37
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-14T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.92
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.31
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.72
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-22T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.9
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   9.41
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-19T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.0
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-22T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.55
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-09T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.76
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-14T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-18T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   6.44
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.04
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-29T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   5.26
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   9.84
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-08T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.32
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-15T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.29
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-15T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   8.5
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.98
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-14T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   1.79
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   4.67
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.81
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-05T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   6.06
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-13T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.43
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-27T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   0.93
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.4
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.55
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-17T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.6
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-21T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.71
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.83
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-30T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   4.34
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-05T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   2.12
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-27T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   9.11
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-03T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   3.57
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   10.25
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.13
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.22
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-29T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.07
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-05T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.66
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-11T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   2.44
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-19T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.88
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-31T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   6.29
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-15T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   6.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-03T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   8.76
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.62
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-19T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.61
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.92
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-03T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   10.51
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-05T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   5.61
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.03
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-14T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.92
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-18T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   11.57
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-28T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.33
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-01T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   2.72
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-04T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.81
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-21T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   9.25
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.57
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-01T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   9.41
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-16T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.28
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-10T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   3.98
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-14T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.65
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-18T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   5.47
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-28T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.04
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-30T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.9
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-06T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.64
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-14T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.26
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-20T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.07
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-21T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   6.86
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.22
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.49
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-06T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.29
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   9.84
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-13T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.56
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.08
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-06T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   9.4
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-21T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   7.54
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-25T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   2.39
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-29T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   10.85
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-12T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.37
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-01T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   9.22
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-28T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   6.1
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-24T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.67
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-07T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.14
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-11T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-12T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.33
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-29T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   1.9
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-30T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   1.89
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-12T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-06T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.17
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-31T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-21T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   0.58
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-22T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   4.73
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-16T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-27T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.29
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-23T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   0.92
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-01T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   2.92
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-01-28T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.81
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-01T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   6.87
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-05T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   5.62
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-25T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   7.1
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-07T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   9.39
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.62
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-29T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   5.01
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-04T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   10.85
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-10T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   3.55
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-11T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.72
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.46
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-10T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   10.63
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-19T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.04
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   3.81
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-30T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.01
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-14T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   6.3
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-26T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.81
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-13T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.25
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-06T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.8
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-09T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   3.93
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-04T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   11.28
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.42
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-21T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   1.42
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   2.24
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-16T00:00:00">
+  <Description>
+   Poker Winnings
+  </Description>
+  <Value>
+   7.17
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-25T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   1.86
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.33
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-15T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   10.19
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-22T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.08
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-02T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.92
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-15T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.29
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-30T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   8.6
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-23T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   8.1
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-26T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   8.44
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-17T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.1
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   7.72
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-13T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   8.46
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-16T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.36
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-04T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.32
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-13T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   5.43
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-23T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   8.44
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   11.4
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-21T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   10.88
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-14T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   4.15
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-22T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.8
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-14T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.57
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.52
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-26T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   11.59
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-12T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.38
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-13T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.57
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-03T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   3.57
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-13T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   10.89
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-26T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   11.83
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-05T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.25
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-18T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.34
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-21T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   10.4
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.83
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   1.49
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-27T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-30T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   0.77
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-04T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   6.03
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-06T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   7.45
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-20T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   1.34
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-26T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.81
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-29T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.7
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-28T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.33
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-14T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.59
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-22T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.9
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-08-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.66
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-30T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   8.9
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-04T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   6.15
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-18T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   6.44
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-21T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   1.42
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-25T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   5.76
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-09T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   2.26
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.17
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-24T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.49
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-01-29T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-07T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   7.37
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   0.68
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-16T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   1.28
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-02T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.92
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-03-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.96
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-02T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   1.11
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-05T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.96
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-09T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   11.79
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-04-19T00:00:00">
+  <Description>
+   White Water Rafting
+  </Description>
+  <Value>
+   8.91
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-09T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   10.73
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-18T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   10.89
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.12
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-25T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   7.32
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-05T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.72
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-20T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   3.88
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-11T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   9.01
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-02T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   11.63
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-05T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   6.06
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-08T00:00:00">
+  <Description>
+   Arcade Social
+  </Description>
+  <Value>
+   11.17
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-13T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.3
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-21T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   10.88
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-25T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.19
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-01T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   10.84
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-11T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   3.75
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-18T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   9.43
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-19T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   1.45
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-27T00:00:00">
+  <Description>
+   Sandcastle Help
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-16T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   1.33
+  </Value>
+  <Parties>
+   <From>
+    Ben B
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-27T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.47
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-10T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   1.92
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-11T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   3.2
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-12T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   5.38
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-07T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   7.89
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-11T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.41
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-26T00:00:00">
+  <Description>
+   Golf Bets
+  </Description>
+  <Value>
+   11.83
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-09T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.48
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-09T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.48
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-27T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   9.29
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-16T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   5.95
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-27T00:00:00">
+  <Description>
+   Services Rendered
+  </Description>
+  <Value>
+   10.78
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-30T00:00:00">
+  <Description>
+   Git-Fu Rendered
+  </Description>
+  <Value>
+   4.53
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-12-28T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.98
+  </Value>
+  <Parties>
+   <From>
+    Rob S
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-02-10T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.93
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-03-30T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.77
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Laura B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-20T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.92
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-04-24T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.38
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-05-05T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   5.06
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-05T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   5.61
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-06-16T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   4.79
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-02T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   2.9
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-09T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.45
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-11T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.05
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sarah T
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-07-16T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.75
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-06T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   1.8
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-09T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   3.93
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-27T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.6
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-09-30T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   9.26
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-19T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   8.0
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-22T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   0.55
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-23T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   2.37
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-28T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   5.04
+  </Value>
+  <Parties>
+   <From>
+    Gergana I
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-10-29T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   5.87
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-14T00:00:00">
+  <Description>
+   Spline Reticulation
+  </Description>
+  <Value>
+   0.8
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-11-28T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   8.76
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-12T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   4.5
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2014-12-22T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.66
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-06T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   10.29
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-16T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   1.28
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-17T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   11.48
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2015-02-21T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   0.5
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Ben B
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   6.98
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-01-17T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   11.1
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-23T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   9.81
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-02-26T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   0.63
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-16T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   11.84
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-21T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.41
+  </Value>
+  <Parties>
+   <From>
+    Stephen S
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-03-31T00:00:00">
+  <Description>
+   Stationary Items
+  </Description>
+  <Value>
+   3.8
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-02T00:00:00">
+  <Description>
+   Fantasy Football
+  </Description>
+  <Value>
+   11.63
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Chris W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-04T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   7.32
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Todd
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-10T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   5.49
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-14T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.46
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-04-23T00:00:00">
+  <Description>
+   Audit and Other Financial Services
+  </Description>
+  <Value>
+   8.44
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-05-10T00:00:00">
+  <Description>
+   Sandbox Help
+  </Description>
+  <Value>
+   1.55
+  </Value>
+  <Parties>
+   <From>
+    Sam N
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-04T00:00:00">
+  <Description>
+   Automated Testing Services
+  </Description>
+  <Value>
+   1.78
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-07T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   3.11
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Stephen S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-06-25T00:00:00">
+  <Description>
+   Misc Morale
+  </Description>
+  <Value>
+   6.57
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Jon A
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-05T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   7.98
+  </Value>
+  <Parties>
+   <From>
+    Jon A
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-07-26T00:00:00">
+  <Description>
+   Jenkins Fees
+  </Description>
+  <Value>
+   11.59
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-09T00:00:00">
+  <Description>
+   Snooker Night
+  </Description>
+  <Value>
+   1.74
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-11T00:00:00">
+  <Description>
+   Rails Consultancy
+  </Description>
+  <Value>
+   3.2
+  </Value>
+  <Parties>
+   <From>
+    Chris W
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-21T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   0.58
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-08-26T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.72
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-02T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   8.36
+  </Value>
+  <Parties>
+   <From>
+    Sarah T
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-09-04T00:00:00">
+  <Description>
+   Pokemon Training
+  </Description>
+  <Value>
+   10.2
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Tim L
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-12T00:00:00">
+  <Description>
+   Lunch
+  </Description>
+  <Value>
+   10.62
+  </Value>
+  <Parties>
+   <From>
+    Laura B
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-18T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   4.34
+  </Value>
+  <Parties>
+   <From>
+    Todd
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-25T00:00:00">
+  <Description>
+   Beers
+  </Description>
+  <Value>
+   6.22
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-10-29T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.07
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Sam N
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-13T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   11.93
+  </Value>
+  <Parties>
+   <From>
+    Tim L
+   </From>
+   <To>
+    Dan W
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-19T00:00:00">
+  <Description>
+   Coffee
+  </Description>
+  <Value>
+   7.08
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Rob S
+   </To>
+  </Parties>
+ </SupportTransaction>
+ <SupportTransaction Date="2012-11-23T00:00:00">
+  <Description>
+   Lego Assistance
+  </Description>
+  <Value>
+   0.92
+  </Value>
+  <Parties>
+   <From>
+    Dan W
+   </From>
+   <To>
+    Gergana I
+   </To>
+  </Parties>
+ </SupportTransaction>
+</TransactionList>

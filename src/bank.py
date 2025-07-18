@@ -1,5 +1,7 @@
 from account import Account
 from transaction import Transaction
+import itertools
+from file_writer_utilities import export_transactions_to_file
 
 class Bank:
     def __init__(self) -> None:
@@ -17,6 +19,13 @@ class Bank:
 
             to_account = self.get_or_create_account(transaction.to_name)
             to_account.add_transaction(transaction)
+
+    def get_all_transactions(self) -> list[Transaction]:
+        return list(itertools.chain(*[account.transactions for _, account in self.accounts.items()]))
+
+    def export_transactions(self, filename: str) -> None:
+        transactions = self.get_all_transactions()
+        export_transactions_to_file(transactions, filename)
 
     def list_all_accounts(self) -> None:
         print("Available accounts:")

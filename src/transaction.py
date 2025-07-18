@@ -1,8 +1,11 @@
 from datetime import datetime
 import re
+from bs4 import BeautifulSoup, Tag
+import pandas as pd
+
 
 class Transaction:
-    def __init__(self, date: datetime, amount: float, narrative: str, from_name: str, to_name: str) -> None:
+    def __init__(self, date: str, amount: float, narrative: str, from_name: str, to_name: str) -> None:
         self.date = date
         self.amount = amount
         self.narrative = narrative
@@ -16,10 +19,15 @@ class Transaction:
     @date.setter
     def date(self, date: str) -> None:
         if not date: raise ValueError(f"Date cannot be empty")
-        try:
-            self._date = datetime.strptime(date, "%d/%m/%Y")
-        except ValueError:
-            raise ValueError(f"Invalid date: {date}")
+        valid_formats = ["%d/%m/%Y", "%Y-%m-%dT%H:%M:%S"]
+        for date_format in valid_formats:
+            try:
+                self._date = datetime.strptime(date, date_format)
+                return
+            except ValueError:
+                continue
+
+        raise ValueError(f"Invalid date: {date}")
 
     @property
     def amount(self) -> float:
@@ -55,6 +63,34 @@ class Transaction:
         if not re.match(r"^[a-zA-Z ]+$", name):
             raise ValueError(f"Invalid name: {name}")
         return name
+
+    def to_xml(self, soup: BeautifulSoup) -> Tag:
+        transaction_tag = soup.new_tag('SupportTransaction', Date=self.date.isoformat())
+
+        description_tag = soup.new_tag('Description', string=self.narrative)
+        transaction_tag.append(description_tag)
+
+        value_tag = soup.new_tag('Value', string=str(self.amount))
+        transaction_tag.append(value_tag)
+
+        parties_tag = soup.new_tag('Parties')
+        parties_tag.append(soup.new_tag('From', string=self.from_name))
+        parties_tag.append(soup.new_tag('To', string=self.to_name))
+        transaction_tag.append(parties_tag)
+
+        return transaction_tag
+
+    def to_json(self) -> dict[str, str | float]:
+        return   {
+            "Date": self.date.isoformat(),
+            "FromAccount": self.from_name,
+            "ToAccount": self.to_name,
+            "Narrative": self.narrative,
+            "Amount": self.amount
+          }
+
+    def to_series(self) -> pd.Series:
+        return pd.Series(self.to_json())
 
     def __str__(self) -> str:
         return (f'Date: {self.date}, '

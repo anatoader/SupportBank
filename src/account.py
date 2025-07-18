@@ -1,5 +1,6 @@
 from transaction import Transaction
 
+
 class Account:
     def __init__(self, name: str):
         self.name = name
